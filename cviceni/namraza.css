@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    text-shadow: 3px 8px 10px rgb(86, 171, 182);
+    color: white
+}
+body {
+backgrround-size: cover;
+background-image: url(../obrazky/mrazive_pozadi.jpg);
+}
